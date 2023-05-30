@@ -26,14 +26,14 @@ As a results-driven and highly motivated Data Analyst, I possess a comprehensive
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/RAJESHWORLD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rajesh756/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/RAJESH-WORLD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rajesh756/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RAJESHWORLD"><img src="https://github-readme-stats.vercel.app/api?username=RAJESHWORLD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="RAJESHWORLD's GitHub stats" /></a>
+<a href="http://www.github.com/RAJESH-WORLD"><img src="https://github-readme-stats.vercel.app/api?username=RAJESH-WORLD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="RAJESH-WORLD's GitHub stats" /></a>
 
-<a href="http://www.github.com/RAJESHWORLD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESHWORLD&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/RAJESH-WORLD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJESH-WORLD&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/RAJESHWORLD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESHWORLD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RAJESH-WORLD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJESH-WORLD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
