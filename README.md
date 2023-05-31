@@ -7,7 +7,7 @@ Aspiring Data Analyst
 As a results-driven and highly motivated Data Analyst, I possess a comprehensive skill set in data analysis utilizing Excel, SQL, Power BI, and Python. With expertise in all these powerful tools, I excel in transforming raw data into actionable insights that drive business optimization. Proficient in advanced Excel functionalities, I leverage its capabilities to organize and analyze data with precision and efficiency. SQL is my go-to language for extracting and manipulating data from databases, while Python allows me to automate tasks and perform complex data analysis tasks. Additionally, my expertise in Power BI enables me to create compelling visualizations and interactive dashboards that effectively communicate key findings. - With a passion for data-driven problem-solving, I am poised to make a significant impact as a valuable asset to your organization's data analytics initiatives. Let's unlock the power of data together and optimize your business for success!
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [8056704715](mailto:8056704715)
+* ✉️  You can contact me at [jayrajesh23715@gmail.com](mailto:jayrajesh23715@gmail.com)
 * 🧠  I'm learning Power-BI and Data analysis in Python
 * 🤝  I'm open to collaborating on Data Analytics and Machine Learning Projects
 * ⚡  Live the life to the fullest
