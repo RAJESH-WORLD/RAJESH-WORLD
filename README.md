@@ -1,4 +1,4 @@
-Hi 👋 My name is Rajeshwaran J
+Hi 👋 My name is Rajeshwaran
 ==============================
 
 Aspiring Data Analyst
